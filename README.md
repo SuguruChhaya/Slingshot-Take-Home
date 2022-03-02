@@ -7,7 +7,10 @@ The trie is hosted on MongoDB. You can connect using mongodb+srv://suguruchhaya:
 # Documentation
 
 requirements.txt: Install required modules using pip install -r requirements.txt
+
 main.py: Run this file to connect to the MongoDB server.  
+
 classes.py: Stores the Node and Trie classes. 
+
 test.py: A test file you can run to test the trie. 
 
